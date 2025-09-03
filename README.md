@@ -34,10 +34,10 @@ _(Take a screenshot of your app, name it `screenshot.png`, and place it in the p
 ## 📂 Project Structure
 
 todo-list/
-│── index.html
-│── styles.css
-│── script.js
-└── README.md
+index.html
+styles.css
+script.js
+README.md
 
 ---
 
@@ -58,11 +58,10 @@ todo-list/
 🌟 Future Improvements
 
 -adding backend support to it
-
 -Add categories (Work, Personal, etc.)
-
 -Add due dates & reminders
-
 -Improve animations & UI design
+
+📜 License
 
 This project is open-source and available under the MIT License
