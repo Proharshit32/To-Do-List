@@ -28,8 +28,6 @@ This app allows users to add, complete, and delete tasks easily.
 
 ---
 
----
-
 ## 📦 How to Run
 
 1. Clone this repository:
@@ -46,6 +44,8 @@ This app allows users to add, complete, and delete tasks easily.
 
 3. Open index.html in your browser.
 
+---
+
 🌟 Future Improvements
 
 -adding backend support to it
@@ -53,6 +53,10 @@ This app allows users to add, complete, and delete tasks easily.
 -Add due dates & reminders
 -Improve animations & UI design
 
+---
+
 📜 License
 
 This project is open-source and available under the MIT License
+
+---
