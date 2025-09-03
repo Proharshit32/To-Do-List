@@ -43,7 +43,7 @@ README.md
 1. Clone this repository:
 
 ```bash
-   https://github.com/Proharshit32/To-Do-List.git
+https://github.com/Proharshit32/To-Do-List.git
 ```
 
 2. Navigate into the folder:
