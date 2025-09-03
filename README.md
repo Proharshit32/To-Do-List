@@ -28,6 +28,8 @@ This app allows users to add, complete, and delete tasks easily.
 
 ---
 
+---
+
 ## 📦 How to Run
 
 1. Clone this repository:
