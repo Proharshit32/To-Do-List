@@ -46,7 +46,7 @@ This app allows users to add, complete, and delete tasks easily.
 
 ---
 
-🌟 Future Improvements
+## 🌟 Future Improvements
 
 -adding backend support to it
 -Add categories (Work, Personal, etc.)
