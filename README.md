@@ -18,26 +18,13 @@ This app allows users to add, complete, and delete tasks easily.
 
 ## 🖼️ Preview
 
-![App Screenshot](screenshot.png)  
-_(Take a screenshot of your app, name it `screenshot.png`, and place it in the project folder for this to display.)_
-
----
+## ![App Screenshot](screenshot.png)
 
 ## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3** (Dark theme, responsive design)
 - **JavaScript (ES6)**
-
----
-
-## 📂 Project Structure
-
-todo-list/
-index.html
-styles.css
-script.js
-README.md
 
 ---
 
