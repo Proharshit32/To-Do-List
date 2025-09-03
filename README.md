@@ -44,9 +44,11 @@ README.md
 ## 📦 How to Run
 
 1. Clone this repository:
-   ```bash
+
+```bash
    git clone https://github.com/your-username/todo-list.git
-   ```
+```
+
 2. Navigate into the folder:
 
 ```bash
