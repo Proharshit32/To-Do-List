@@ -25,8 +25,18 @@ This app allows users to add, complete, and delete tasks easily.
 - **HTML5**
 - **CSS3** (Dark theme, responsive design)
 - **JavaScript (ES6)**
+  
+```
 
----
+## 📂 Project Structure
+
+todo-list/
+index.html
+styles.css
+script.js
+README.md
+
+```
 
 ## 📦 How to Run
 
@@ -44,15 +54,11 @@ This app allows users to add, complete, and delete tasks easily.
 
 3. Open index.html in your browser.
 
----
-
 ## 🌟 Future Improvements
-
--adding backend support to it
--Add categories (Work, Personal, etc.)
--Add due dates & reminders
--Improve animations & UI design
-
+- Adding backend support  
+- Add categories (Work, Personal, etc.)  
+- Add due dates & reminders  
+- Improve animations & UI design  
 ---
 
 📜 License
